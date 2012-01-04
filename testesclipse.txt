@@ -1,0 +1,7 @@
+test first esclipse kakaka
+line 2 esclipse edit
+test first esclipse kakaka
+line 2 esclipse edit
+line 2,5 tung add
+123456789
+line 3 kakaka at git
