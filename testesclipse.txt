@@ -1,4 +1,0 @@
-test first esclipse kakaka
-line 2 esclipse edit
-line 3 kakaka at git
-ahhahah
